@@ -9,8 +9,7 @@ I'm Andrés Orozco. I recently obtained the degree of Engineer in Information Te
 
 ![Python](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/bounce-in-icons/python.svg)Python 
 ![CPP](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/bounce-in-icons/cpp.svg) C++ 
-![Solidity](https://raw.githubusercontent.com/moonR2/moonR2/main/file_type_light_solidity_icon_130436.svg) Solidity 
-<img src="https://raw.githubusercontent.com/moonR2/moonR2/main/file_type_light_solidity_icon_130436.svg" alt="Solidity" width="48"/>
+<img src="https://raw.githubusercontent.com/moonR2/moonR2/main/file_type_light_solidity_icon_130436.svg" alt="Solidity" width="48" height="48"/>
 ![JavaScript](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/bounce-in-icons/javascript.svg)  JavaScript  
 ![Bash](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/bounce-in-icons/bash.svg) Bash
 
