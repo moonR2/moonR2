@@ -5,7 +5,7 @@ I'm Andrés Orozco. I recently obtained the degree of Engineer in Information Te
 
 🌱 Learning:
 
-Go
+Rust
 
 ------------
 
